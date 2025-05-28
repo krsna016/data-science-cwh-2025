@@ -1,4 +1,4 @@
-# key  ="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"
+# key = key
 #
 # from openai import OpenAI
 # client = OpenAI(api_key=key)
